@@ -3,6 +3,14 @@
 Repositori ini berisi kumpulan materi pembelajaran dasar mengenai Sistem Operasi Linux.  
 Materi ini dibuat sebagai dokumentasi dan referensi untuk memahami konsep dan penggunaan Linux secara fundamental.
 
+## Preview
+
+Berikut contoh tampilan terminal Linux saat menjalankan perintah dasar:
+
+![Contoh Terminal Linux](./images/terminal-example.png)
+
+*Gambar: Contoh penggunaan perintah `ls` di terminal Linux*
+
 ## Isi Materi
 
 - Pengantar Sistem Operasi Linux  
