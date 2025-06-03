@@ -34,7 +34,7 @@ Memudahkan pemula untuk belajar dan memahami Linux dari dasar secara bertahap da
 
 1. Clone repositori ini:  
    ```bash
-   git clone https://github.com/Krisnaadityapratama/Sistem_Operasi_Linux.git
+   git clone https://github.com/Krisnaadityapratama/Materai_Belajar_Sistem_Operasi_Linux.git
 ````
 
 2. Buka folder `Sistem_Operasi_Linux` dan akses materi sesuai pertemuan yang diinginkan.
