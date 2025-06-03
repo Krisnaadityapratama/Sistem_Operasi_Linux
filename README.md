@@ -7,7 +7,7 @@ Materi ini dibuat sebagai dokumentasi dan referensi untuk memahami konsep dan pe
 
 Berikut contoh tampilan terminal Linux saat menjalankan perintah dasar:
 
-![Contoh Terminal Linux](./images/terminal-example.png)
+![Contoh Terminal Linux](https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/2X/f/f5787298cfda955e0e223f461e962d7dc8c376cc.png)
 
 *Gambar: Contoh penggunaan perintah `ls` di terminal Linux*
 
